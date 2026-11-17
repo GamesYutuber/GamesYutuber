@@ -23,7 +23,7 @@ PLAYER:
   location: Brazil 🇧🇷
 
 FOCUS:
-  - Programming (C, TypeScript)
+  - Programming (C, Python, TypeScript, JavaScript, HTML, CSS)
   - Game development & gaming-related ideas
   - Creating content around games and tech
 
@@ -43,7 +43,7 @@ I'm a developer who loves games and technology. I build projects to explore idea
 
 | | |
 |:---|:---|
-| **Languages** | <img alt="C and TypeScript" src="https://skillicons.dev/icons?i=c,ts&theme=dark"/> |
+| **Languages** | <img alt="C, Python, TypeScript, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=c,python,ts,js,html,css&theme=dark"/> |
 | **Tools** | <img alt="Git, GitHub, VS Code, Discord" src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark"/> |
 
 </div>
@@ -110,12 +110,17 @@ I'm a developer who loves games and technology. I build projects to explore idea
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GamesYutuber)
-<!-- Add your links: -->
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SEU_CANAL) -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_CONVITE) -->
+All my links in one place 👇
 
-<br/>
+<a href="https://beacons.ai/gamesyutuber">
+  <img alt="Beacons - GamesYutuber" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&height=60&lines=%E2%9A%A1+beacons.ai%2Fgamesyutuber+%E2%9A%A1;YouTube+%E2%80%A2+Social+%E2%80%A2+Everything"/>
+</a>
+
+<a href="https://beacons.ai/gamesyutuber">
+  <img alt="Open my links" height="64" src="https://img.shields.io/badge/%F0%9F%94%97%20%20ACCESS%20ALL%20MY%20LINKS%20%20%E2%9E%9C-5533A8?style=for-the-badge&labelColor=070B1A&logo=linktree&logoColor=00D9FF"/>
+</a>
+
+<br/><br/>
 
 **Thanks for visiting!**
 
