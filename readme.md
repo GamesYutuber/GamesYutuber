@@ -70,7 +70,7 @@ I'm a developer who loves games and technology. I build projects to explore idea
 
 <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GamesYutuber&bg_color=0b1020&color=00d9ff&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=GamesYutuber&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10"/>
+<img alt="GitHub trophies" src="https://github-profile-trophy-delta.vercel.app/?username=GamesYutuber&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10"/>
 
 </div>
 
