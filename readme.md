@@ -54,8 +54,8 @@ I'm a developer who loves games and technology. I build projects to explore idea
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GamesYutuber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamesYutuber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=GamesYutuber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GamesYutuber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <img width="90%" alt="Streak stats" src="https://streak-stats.demolab.com/?user=GamesYutuber&theme=tokyonight&hide_border=true"/>
 
@@ -85,7 +85,7 @@ I'm a developer who loves games and technology. I build projects to explore idea
 <!-- Replace REPO_NAME with your best repositories -->
 <!--
 <a href="https://github.com/GamesYutuber/REPO_NAME">
-  <img alt="Repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=GamesYutuber&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+  <img alt="Repo card" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GamesYutuber&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
 </a>
 -->
 
